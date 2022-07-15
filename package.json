@@ -1,0 +1,15 @@
+{
+  "name": "masterflex-business-card",
+  "version": "1.0.0",
+  "description": "business card CLI",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael San Diego Viray",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1"
+  }
+}
